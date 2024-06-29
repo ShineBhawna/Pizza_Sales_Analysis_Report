@@ -14,4 +14,4 @@ I plan on creating a dynamic Power BI dashboard that enables users to explore de
 ### This repositry is about pizza sales anaysis Dashboard that is made in Power-BI.
 
 ### Screenshots
-<img src =Screenshots/Dashboard.png width="750">
+<img src =Screenshots/Dashboard.PNG width="200">
