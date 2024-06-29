@@ -11,7 +11,7 @@ I plan on creating a dynamic Power BI dashboard that enables users to explore de
 
 #PIZZA_SALES_ANALYSIS_DASHBOARD
 
-### This repositry is about pizza sales anaysis Dashboard that is made in Power-BI.
+### ![Dashboard](https://github.com/ShineBhawna/Pizza_Sales_Analysis_Report/assets/93312897/46fdbe16-8ae2-46f3-b89b-1c381411d131)
 
-### Screenshots
-<img src =Screenshots/Dashboard.PNG width="200">
+
+
